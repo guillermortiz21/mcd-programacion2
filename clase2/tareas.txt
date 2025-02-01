@@ -1,0 +1,6 @@
+Ver links / docu de numpy, están en la presentación de numpy.
+Hacer un notebook con los ejercicios que están en esa presentación.
+Y hacer también el de pandas.
+
+Subir los ejercicios de las presentaciones al github.
+
