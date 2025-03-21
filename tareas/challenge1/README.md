@@ -8,6 +8,7 @@ I solved the challenge using a Logistic Regression, getting the following result
 Confusion Matrix:
 
 106 | 2
+
 1   | 62
 
 Precision: 0.9688
