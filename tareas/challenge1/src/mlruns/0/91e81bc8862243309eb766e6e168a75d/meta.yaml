@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/91e81bc8862243309eb766e6e168a75d/artifacts
+deleted_time: 1742599715478
+end_time: 1742598646920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 91e81bc8862243309eb766e6e168a75d
+run_name: rare-finch-450
+run_uuid: 91e81bc8862243309eb766e6e168a75d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742598640271
+status: 3
+tags: []
+user_id: memor

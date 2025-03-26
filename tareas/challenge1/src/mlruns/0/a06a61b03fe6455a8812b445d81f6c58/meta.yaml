@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/a06a61b03fe6455a8812b445d81f6c58/artifacts
+deleted_time: 1742599715488
+end_time: 1742597880171
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a06a61b03fe6455a8812b445d81f6c58
+run_name: illustrious-croc-261
+run_uuid: a06a61b03fe6455a8812b445d81f6c58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742597872134
+status: 3
+tags: []
+user_id: memor

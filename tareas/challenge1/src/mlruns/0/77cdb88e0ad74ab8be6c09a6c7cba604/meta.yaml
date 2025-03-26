@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/77cdb88e0ad74ab8be6c09a6c7cba604/artifacts
+end_time: 1742953072599
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77cdb88e0ad74ab8be6c09a6c7cba604
+run_name: BreastCancerChallenge
+run_uuid: 77cdb88e0ad74ab8be6c09a6c7cba604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742953066166
+status: 3
+tags: []
+user_id: memor

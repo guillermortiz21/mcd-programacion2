@@ -99,7 +99,7 @@ def main():
         X, y, random_state=42, test_size=0.3, shuffle=True
     )
     # Start mlflow experiment
-    with mlflow.start_run(): # Stage 3: MLflow
+    with mlflow.start_run(run_name="BreastCancerChallenge"): # Stage 3: MLflow
         # Build model and train it
         model = get_trained_model(X_train, y_train)
         # Get predicted categories

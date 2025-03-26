@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/e8380e5cbacc4d80801caa01cf96ca99/artifacts
+deleted_time: 1742599715480
+end_time: 1742599673454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e8380e5cbacc4d80801caa01cf96ca99
+run_name: sedate-wolf-994
+run_uuid: e8380e5cbacc4d80801caa01cf96ca99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742599666809
+status: 3
+tags: []
+user_id: memor

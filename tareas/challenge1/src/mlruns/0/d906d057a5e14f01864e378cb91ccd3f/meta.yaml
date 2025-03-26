@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d906d057a5e14f01864e378cb91ccd3f/artifacts
+deleted_time: 1742599715487
+end_time: 1742598223771
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d906d057a5e14f01864e378cb91ccd3f
+run_name: glamorous-pig-935
+run_uuid: d906d057a5e14f01864e378cb91ccd3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742598216658
+status: 3
+tags: []
+user_id: memor

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/80b3f835d1174e68829ab43cbc7568d2/artifacts
+deleted_time: 1742599715478
+end_time: 1742599470772
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 80b3f835d1174e68829ab43cbc7568d2
+run_name: clean-mule-959
+run_uuid: 80b3f835d1174e68829ab43cbc7568d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742599464063
+status: 3
+tags: []
+user_id: memor
